@@ -1,0 +1,4 @@
+User-agent: *
+User-agent: Yandex
+Sitemap: https://glazbogabots.github.io/bot/sitemap.xml
+Host: https://glazbogabots.github.io/bot/
